@@ -2,7 +2,7 @@
 Complete your formatted designated resume here
 
 ## EDUCATION
-*Bachelor’s Degree in Business Administration
+* Bachelor’s Degree in Business Administration
 * DUKE UNIVERSITY
 
 ## SKILLS
