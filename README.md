@@ -3,7 +3,7 @@ Complete your formatted designated resume here
 
 
 ## IT CONSULTANT, DOCUMENTUM
-- 11/2006 – 11/2013
+###11/2006 – 11/2013
 - Work with the team to shape and improve the service offered
 - Track metrics and production of management information in relation to agreed SLAs,
 - Working with business users and system owners around the world,
@@ -14,7 +14,7 @@ Remote work,
 - Dallas, TX
 
 ## IT CONSULTANT
-- 04/2003 – 06/2006
+### 04/2003 – 06/2006
 - Assist Account Development Managers and Project Managers in development and delivery of plans on key accounts
 - Provide implementation estimates, create statements of work and project implementation plans for the IBM Control Desk based solutions
 - Implements and improves the Santander project management framework and toolset
