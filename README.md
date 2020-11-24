@@ -3,7 +3,7 @@ Complete your formatted designated resume here
 
 
 ## IT CONSULTANT, DOCUMENTUM
-###11/2006 – 11/2013
+### 11/2006 – 11/2013
 - Work with the team to shape and improve the service offered
 - Track metrics and production of management information in relation to agreed SLAs,
 - Working with business users and system owners around the world,
